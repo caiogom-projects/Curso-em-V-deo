@@ -4,7 +4,7 @@ Este repositório contém materiais e exercícios dos meus estudos com o [Curso 
 
 ## 🎯 Objetivo
 
-Este é um repositório pessoal para armazenar conteúdos e práticas das aulas que estou acompanhando. Como já possuo conhecimento básico em **HTML**, **CSS** e **JavaScript**, estou revisitando esses conceitos para reforçar o aprendizado e preencher possíveis lacunas.
+Este é um repositório pessoal para armazenar conteúdos e práticas das aulas que estou acompanhando. Como já possuo conhecimento básico em **HTML**, **CSS** e **JavaScript**, estou revisitando esses conceitos para reforçar o aprendizado e preencher possíveis lacunas. Após terminar os módulos e revisão, estarei continuando estudando entre mais aulas que tem no canal para aprender linguagens de programação, fora a linguagem de marcação de site e estilização.
 
 ## 📂 Estrutura do Repositório
 
