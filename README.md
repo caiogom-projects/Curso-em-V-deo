@@ -23,6 +23,7 @@ Curso em Vídeo/
 - 📺 [Playlist do Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 - 👨‍🏫 Professor: Gustavo Guanabara
 - 🔗 Canal: [Curso em Vídeo](https://www.youtube.com/@cursoemvideo)
+- 📄 [Material de Apoio (PDFs)](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
 
 ## 📝 Observações
 
